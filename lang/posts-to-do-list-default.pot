@@ -1,0 +1,538 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Pay Counter PRO\n"
+"POT-Creation-Date: 2020-01-28 20:57+0100\n"
+"PO-Revision-Date: 2015-09-12 19:03+0100\n"
+"Last-Translator: Stefano Ottolenghi <webmaster@thecrowned.org>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: posts-to-do-list-ajax-functions.php:21
+msgid ""
+"Error: An error occurred while retrieving page title. You can still enter it "
+"yourself"
+msgstr ""
+
+#: posts-to-do-list-ajax-functions.php:44
+msgid "Error: No users found."
+msgstr ""
+
+#: posts-to-do-list-ajax-functions.php:123
+msgid "Ooops! Don't get greedy, you still have an assignment pending!"
+msgstr ""
+
+#: posts-to-do-list-ajax-functions.php:128
+msgid "Ooops! Looks like this post has already been taken!"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:7
+msgid "Add new entry"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:7
+msgid "Add new post"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:12
+msgid "URL"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:15
+msgid "Title (mandatory)"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:18
+#: posts-to-do-list-print-functions.php:126 posts-to-do-list.php:840
+msgid "Keyword"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:21
+#: posts-to-do-list-print-functions.php:127 posts-to-do-list.php:841
+msgid "Notes"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:25
+msgid "Assign post to specific user"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:27
+msgid "Any"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:37
+msgid "User"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:38
+#: posts-to-do-list-print-functions.php:95
+#: posts-to-do-list-print-functions.php:115
+msgid "Unassigned"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:48
+msgid "Set priority"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:50
+msgid "A matter of life or death"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:51 posts-to-do-list.php:820
+msgid "Highest"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:52 posts-to-do-list.php:819
+msgid "High"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:53 posts-to-do-list.php:818
+msgid "Normal"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:54 posts-to-do-list.php:817
+msgid "Low"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:55 posts-to-do-list.php:816
+msgid "Lowest"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:56 posts-to-do-list.php:815
+msgid "Lower than hell"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:59
+msgid "Loading..."
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:61
+msgid "Add"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:71
+msgid "No posts available. Add a new item!"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:123
+msgid "Added on"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:124
+msgid "Assigned to"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:125 posts-to-do-list.php:839
+msgid "Priority"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:130
+msgid "Marked as done by"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:134
+msgid "Leave a note"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:140 posts-to-do-list.php:843
+msgid "Write it!"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:146 posts-to-do-list.php:846
+msgid "Go to source"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:155
+msgid "Mark as done"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:161
+msgid ""
+"If you plan to write this post, assign it to yourself so that other writers "
+"will not start writing it too"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:161
+msgid "Assign to me"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:165
+msgid "If you are not going to write this anymore."
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:165
+msgid "Unassign from me"
+msgstr ""
+
+#: posts-to-do-list-print-functions.php:177
+msgid "Delete item"
+msgstr ""
+
+#: posts-to-do-list-widget.php:11 posts-to-do-list-widget.php:13
+#: posts-to-do-list.php:148 posts-to-do-list.php:215 posts-to-do-list.php:221
+#: posts-to-do-list.php:232
+msgid "Posts To Do List"
+msgstr ""
+
+#: posts-to-do-list-widget.php:31
+msgid "Only available to logged-in users."
+msgstr ""
+
+#: posts-to-do-list-widget.php:45
+msgid "Title:"
+msgstr ""
+
+#: posts-to-do-list.php:146
+msgid "Posts To Do List Options"
+msgstr ""
+
+#: posts-to-do-list.php:222
+msgid "Posts To Do List Stats"
+msgstr ""
+
+#: posts-to-do-list.php:238
+msgid "Posts To Do List General Options"
+msgstr ""
+
+#: posts-to-do-list.php:239
+msgid "Posts To Do List Permissions"
+msgstr ""
+
+#: posts-to-do-list.php:240
+msgid "Posts To Do List Reset"
+msgstr ""
+
+#: posts-to-do-list.php:241
+msgid "Purge Marked as Done Items"
+msgstr ""
+
+#: posts-to-do-list.php:242
+msgid "Support The Author"
+msgstr ""
+
+#: posts-to-do-list.php:257
+msgid "This item was marked as done by"
+msgstr ""
+
+#: posts-to-do-list.php:277
+msgid "Settings"
+msgstr ""
+
+#: posts-to-do-list.php:285
+msgid "Donate"
+msgstr ""
+
+#: posts-to-do-list.php:305
+msgid "Previous entries"
+msgstr ""
+
+#: posts-to-do-list.php:306
+#, php-format
+msgid "Page %2$s of %2$s"
+msgstr ""
+
+#: posts-to-do-list.php:307
+msgid "Next entries"
+msgstr ""
+
+#: posts-to-do-list.php:324
+msgid "Error: Page number not valid"
+msgstr ""
+
+#: posts-to-do-list.php:401
+msgid "Posts To Do List records deleted."
+msgstr ""
+
+#: posts-to-do-list.php:401 posts-to-do-list.php:413 posts-to-do-list.php:460
+msgid "Go to the dashboard page"
+msgstr ""
+
+#: posts-to-do-list.php:413
+msgid "Posts To Do List marked as done items deleted."
+msgstr ""
+
+#: posts-to-do-list.php:460
+msgid "Settings updated."
+msgstr ""
+
+#: posts-to-do-list.php:495
+msgid "Save options"
+msgstr ""
+
+#: posts-to-do-list.php:503
+msgid ""
+"Put here the number of items that you want to be displayed for each page in "
+"the Posts To Do List in the posts page."
+msgstr ""
+
+#: posts-to-do-list.php:505
+msgid "Number of items to display per page:"
+msgstr ""
+
+#: posts-to-do-list.php:508
+msgid "Send email to users when a post is assigned to them"
+msgstr ""
+
+#: posts-to-do-list.php:508
+msgid ""
+"If checked, when a new post is assigned to a user, they will receive an "
+"email with the related details."
+msgstr ""
+
+#: posts-to-do-list.php:510
+msgid "Publication time range"
+msgstr ""
+
+#: posts-to-do-list.php:513
+msgid ""
+"With this, in the stats it will automatically selected a time range that "
+"goes from the beginning of the week to the current day. You will anyway be "
+"able to change the time range as you wish from the stats page."
+msgstr ""
+
+#: posts-to-do-list.php:519
+msgid "Default stats time range displayed is first day the week - today"
+msgstr ""
+
+#: posts-to-do-list.php:524
+msgid ""
+"With this, in the stats it will automatically selected a time range that "
+"goes from the beginning of the month to the current day. You will anyway be "
+"able to change the time range as you wish from the stats page."
+msgstr ""
+
+#: posts-to-do-list.php:530
+msgid "Default stats time range displayed is first day the month - today"
+msgstr ""
+
+#: posts-to-do-list.php:535
+msgid ""
+"Customizing the time range means that you can choose how many days back you "
+"want the default time range to be. So, for example, if you set this to 90, "
+"and today is 25 May, the plugin will show you stats ranging from 25 February "
+"to 25 May."
+msgstr ""
+
+#: posts-to-do-list.php:541
+msgid "Customize default stats time range displayed"
+msgstr ""
+
+#: posts-to-do-list.php:545
+msgid "Widget"
+msgstr ""
+
+#: posts-to-do-list.php:546
+msgid "Display widget content to non logged-in users"
+msgstr ""
+
+#: posts-to-do-list.php:546
+msgid "To do items will be shown in the widget even if user is not logged in."
+msgstr ""
+
+#: posts-to-do-list.php:557
+msgid "Non-administrator users can see posts assigned to other users"
+msgstr ""
+
+#: posts-to-do-list.php:557
+msgid ""
+"If checked, normal users will not only see posts assigned to themselves, but "
+"also the ones assigned to other users. Unassigned posts will be shown anyway."
+msgstr ""
+
+#: posts-to-do-list.php:558
+msgid "Non-administrator users can claim posts already assigned to other users"
+msgstr ""
+
+#: posts-to-do-list.php:558
+msgid ""
+"If checked, normal users will not only be able to claim posts that have "
+"already been assigned to or claimed by other users."
+msgstr ""
+
+#: posts-to-do-list.php:559
+msgid ""
+"Non-administrator users can claim posts while they still have assigned non-"
+"completed posts"
+msgstr ""
+
+#: posts-to-do-list.php:559
+msgid ""
+"If checked, normal users will not able to claim a post even if they have not "
+"completed their previous assignment."
+msgstr ""
+
+#: posts-to-do-list.php:562
+msgid ""
+"Only users belonging to one of the checked user roles will be able to add "
+"posts to the list."
+msgstr ""
+
+#: posts-to-do-list.php:564
+msgid "User roles allowed to add new posts"
+msgstr ""
+
+#: posts-to-do-list.php:575
+msgid ""
+"Only users belonging to one of the checked user roles will be able to delete "
+"previously added posts."
+msgstr ""
+
+#: posts-to-do-list.php:577
+msgid "User roles allowed to delete already added posts"
+msgstr ""
+
+#: posts-to-do-list.php:588
+msgid ""
+"Only users belonging to one of the checked user roles will be able to "
+"unassign items assigned to them."
+msgstr ""
+
+#: posts-to-do-list.php:590
+msgid "User roles allowed to unassign posts assigned to them"
+msgstr ""
+
+#: posts-to-do-list.php:602
+msgid ""
+"The button below will delete all the posts added to the list. All items will "
+"be unrecoverably deleted, although your options will not be touched."
+msgstr ""
+
+#: posts-to-do-list.php:603
+msgid "I got it. Delete everything!"
+msgstr ""
+
+#: posts-to-do-list.php:607
+msgid ""
+"The button below will delete all the posts that were marked as done. All "
+"marked as done item will be unrecoverably deleted, although your options "
+"will not be touched."
+msgstr ""
+
+#: posts-to-do-list.php:608
+msgid "Purge marked as done items"
+msgstr ""
+
+#: posts-to-do-list.php:676
+msgid "Time range for stats:"
+msgstr ""
+
+#: posts-to-do-list.php:680
+msgid "Update time range"
+msgstr ""
+
+#: posts-to-do-list.php:681
+msgid "Get the what-you-are-seeing permalink"
+msgstr ""
+
+#: posts-to-do-list.php:681
+msgid "Get current view permalink"
+msgstr ""
+
+#: posts-to-do-list.php:686
+msgid "General Stats"
+msgstr ""
+
+#: posts-to-do-list.php:687
+#, php-format
+msgid ""
+"%1$sAdded%2$s tells you how many posts were added to the to-do list. "
+"%1$sMarked as done%2$s is how many posts have been marked as done. %1$sStill "
+"to do%2$s are the ones that were added but that have not been marked as done "
+"yet. %1$sCreated%2$s counts the number of posts created by any user, drafts, "
+"pending review and future scheduled. %1$sPublished%2$s is the number of "
+"published posts. All of this refered to the time range displayed above."
+msgstr ""
+
+#: posts-to-do-list.php:691 posts-to-do-list.php:709
+msgid "Added"
+msgstr ""
+
+#: posts-to-do-list.php:692
+msgid "Marked as done"
+msgstr ""
+
+#: posts-to-do-list.php:693 posts-to-do-list.php:713
+msgid "Still to do"
+msgstr ""
+
+#: posts-to-do-list.php:694 posts-to-do-list.php:714
+msgid "Created"
+msgstr ""
+
+#: posts-to-do-list.php:695 posts-to-do-list.php:715
+msgid "Published"
+msgstr ""
+
+#: posts-to-do-list.php:704
+msgid "Detailed Stats</h2>"
+msgstr ""
+
+#: posts-to-do-list.php:708
+msgid "Username"
+msgstr ""
+
+#: posts-to-do-list.php:710
+msgid "Assigned"
+msgstr ""
+
+#: posts-to-do-list.php:711
+msgid "Done"
+msgstr ""
+
+#: posts-to-do-list.php:712
+msgid "Assigned Done"
+msgstr ""
+
+#: posts-to-do-list.php:727
+msgid "If you like the Posts To Do List plugin, support its development!"
+msgstr ""
+
+#: posts-to-do-list.php:729
+msgid "Donate money"
+msgstr ""
+
+#: posts-to-do-list.php:729
+msgid "Donate money."
+msgstr ""
+
+#: posts-to-do-list.php:821
+msgid "A matter of life and death"
+msgstr ""
+
+#: posts-to-do-list.php:835
+#, php-format
+msgid ""
+"You are receiving this email because you are a writer at %1$s. A new post "
+"was added to the list of the to-do ones. It was assigned to you. Following "
+"are details of that new item."
+msgstr ""
+
+#: posts-to-do-list.php:838
+msgid "Added on "
+msgstr ""
+
+#: posts-to-do-list.php:848
+msgid ""
+"Additional actions are available on the blog pages: look at the Posts To Do "
+"List box in the post edit page: the items assigned to you will be showed "
+"first and marked with an asterisk."
+msgstr ""
+
+#: posts-to-do-list.php:849
+#, php-format
+msgid ""
+"This message was generated automatically by the %1$s. If these notification "
+"are unwanted, contact your administrator."
+msgstr ""
+
+#: posts-to-do-list.php:849
+msgid "Posts To Do List plugin"
+msgstr ""
